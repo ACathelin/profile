@@ -1,0 +1,50 @@
+/* Here goes your CSS */
+/* Here goes your CSS */
+
+body {
+    background: #EBEBEB;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: #7d7d7d;
+    font-size: 15px;
+    line-height: 2.5em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 450;
+    color: black;
+    font-size: 25px;
+    line-height: 3.5em;
+}
+
+h2 {
+    font-family: 'Taviraj', serif;
+    font-weight: 400;
+    color: black;
+    font-size: 20px;
+    line-height: 3.0em;
+}
+
+ul {
+    font-family: 'Merriweather', serif;
+    font-weight: 350;
+    color: black;
+    font-size: 15px;
+    line-height: 2.0em;
+}
+
+.container {
+    width: 500px;
+    height: 150px
+    margin: auto;
+}
+
+.table_experience {
+    display: inline-block;
+    padding: 0px 20px;
+    padding-left: 0px;
+}
