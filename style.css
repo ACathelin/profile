@@ -1,5 +1,6 @@
 /* Here goes your CSS */
 /* Here goes your CSS */
+/* Here goes your CSS */
 
 body {
     background: #EBEBEB;
@@ -43,7 +44,7 @@ ul {
     margin: auto;
 }
 
-.table_experience {
+#table_experience {
     display: inline-block;
     padding: 0px 20px;
     padding-left: 0px;
